@@ -30,7 +30,7 @@ contributions.
 In order to coordinate our efforts we have 2 communication channels:
 
 * <a href="https://gitlab.com/groups/bloom42/-/issues" target="_blank" rel="noopener">GitLab issues</a></li>
-* <a href="https://discord.gg/HmDQDGv" target="_blank" rel="noopener">a Discord chat</a></li>
+* <a href="https://gitlab.com/bloom42/forum" target="_blank" rel="noopener">a community Forum</a></li>
 
 
 **GitLab issues** are are used to discuss about bugs and new features. They are our primary
