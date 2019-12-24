@@ -98,19 +98,12 @@ Bloom's documentation is splitted in 2 parts:
   Each project documentation can be found within the project's repository in the <b>docs</b> folder.
 
 
-# Sponsoring
-
- Another way to contribute to the Bloom project is financially: If you want to have your logo
-on our <a href="https://bloom.sh/about" target="_blank" rel="noopener">about page</a> or donate to make the world a better place, please see our
-<a href="https://bloom.sh/become-a-sponsor" target="_blank" rel="noopener">Become a sponsor page</a>.
-
-
 # Getting Help
 
 If you need help while contributing to Bloom, below are some of the resources that are available:
 
 * <a href="https://bloom.sh/help" target="_blank" rel="noopener">Our Help and Documentation website</a>
-* <a href="https://discordapp.com/invite/HmDQDGv">The Discord chat</a>
+* <a href="https://gitlab.com/bloom42/forum">The Forum</a>
 * By email: <a href="mailto:hello@bloom.sh">hello@bloom.sh</a>
 
 <!--
