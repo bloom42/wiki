@@ -7,6 +7,12 @@
 * No algebraic data types
 * Imperative paradigm
 
+## Commands
+
+```sh
+$ go env -w GOFLAGS=-mod=vendor
+```
+
 ## Resources
 
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
