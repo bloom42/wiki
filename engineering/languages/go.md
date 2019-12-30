@@ -9,6 +9,7 @@
 
 ## Commands
 
+See https://news.ycombinator.com/item?id=20869324
 ```sh
 $ go env -w GOFLAGS=-mod=vendor
 $ go env -w GOPROXY="direct"
