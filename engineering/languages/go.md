@@ -11,6 +11,8 @@
 
 ```sh
 $ go env -w GOFLAGS=-mod=vendor
+$ go env -w GOPROXY="direct"
+$ go env -w GOSUMDB="off"
 ```
 
 ## Resources
