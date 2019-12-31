@@ -34,3 +34,4 @@ $ go env -w GOSUMDB="off"
 * https://github.com/chrislusf/gleam
 * https://fr.slideshare.net/AntonStepanenko/flow-based-programming-in-golang
 * https://aws.amazon.com/fr/step-functions/
+* https://github.com/Pungyeon/clean-go-article#Introduction-to-Clean-Code
