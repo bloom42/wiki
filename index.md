@@ -1,0 +1,4 @@
+# Index
+
+
+* [Ideas](ideas)
