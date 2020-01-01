@@ -1,3 +1,10 @@
 # organization
-
+* [Roadmap)(organization/roadmap
+* [Mission](organization/mission)
+* [Vision](organization/vision)
+* [Values](organization/values)
+* [Leadership](organization/leadership)
+* [Structure](organization/structure)
 * [Workflow](organization/workflow)
+* [Contributing](organization/contributing)
+* [Social media](organization/social-media)
