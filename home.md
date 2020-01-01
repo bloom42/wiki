@@ -23,3 +23,15 @@ Some projects have their own wiki
 * [Authenticator](https://gitlab.com/bloom42/authenticator/-/wikis/home)
 * [Crypto42](https://gitlab.com/bloom42/libs/crypto42/-/wikis/home)
 * [SANE](https://gitlab.com/bloom42/sane/-/wikis/home)
+
+# Index
+
+* [Home](home)
+* [Index](index)
+* [Organization](organization)
+* [Engineering](engineering)
+* [People group](people-group)
+* [Finance](finance)
+* [Legal](legal)
+* [Marketing](marketing)
+* [Ideas](ideas)
