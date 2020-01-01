@@ -6,3 +6,5 @@
 * Patterns
   * [Event Sourcing](engineering/patterns/event-sourcing)
   * [Flux](engineering/patterns/flux)
+* [Licenses](engineering/license)
+  * [Apache 2.0](engineering/license/apache-2.0)
