@@ -913,3 +913,13 @@ Convergence
 Pro tools (adobe….)
 
 Other devices (tablets, e book readers…)
+
+-----------------------------
+
+The place to manage your factory/farm
+
+The place to sell and buy digital content
+
+
+Brainwaves easyyyyy
+
