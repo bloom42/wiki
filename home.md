@@ -27,7 +27,6 @@ Some projects have their own wiki
 # Index
 
 * [Home](home)
-* [Index](index)
 * [Organization](organization)
 * [Engineering](engineering)
 * [People group](people-group)
