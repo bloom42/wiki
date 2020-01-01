@@ -1,3 +1,0 @@
-# People group
-
-TODO
