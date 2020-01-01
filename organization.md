@@ -1,5 +1,5 @@
-# organization
-* [Roadmap)(organization/roadmap
+
+* [Roadmap)(organization/roadmap)
 * [Mission](organization/mission)
 * [Vision](organization/vision)
 * [Values](organization/values)
