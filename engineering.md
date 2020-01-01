@@ -1,5 +1,3 @@
-# Engineering
-
 * [Tao](engineering/tao)
 * [Setup](engineering/setup)
 * [Cryptography](engineering/cryptography)
