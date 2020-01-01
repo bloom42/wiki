@@ -10,4 +10,33 @@ Too view the current sprints and this week roadmap, please see the
 * Q1 2020 - Add services
 * Q2 2020 - Data Portability
 * Q3 / Q4 2020 - Federation
-* ∞ Never stop challenging the *statu quo* -->
+* ∞ Never stop challenging the *statu quo*
+
+
+--------------
+
+## 2020
+
+### January
+
+### February
+
+### March
+
+### April
+
+### May
+
+### June
+
+### July
+
+### August
+
+### September
+
+### October
+
+### November
+
+### December
