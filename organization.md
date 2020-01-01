@@ -7,4 +7,4 @@
 * [Structure](organization/structure)
 * [Workflow](organization/workflow)
 * [Contributing](organization/contributing)
-* [Social media](organization/social-media)
+* [Communication](organization/communication)
