@@ -16,3 +16,16 @@
   * [JavaScript](engineering/languages/javascript)
   * [Elixir](engineering/languages/elixir)
 * Templates
+  * [Docker](engineering/templates/docker)
+  * [Editor config](engineering/templates/editor-config)
+  * [ESLint](engineering/templates/eslint)
+  * [Git](engineering/templates/git)
+  * [GitHub](engineering/templates/github)
+  * GitLab
+    * [Issues](engineering/templates/gitlab/issue)
+    * [Merge requests](engineering/templates/gitlab/merge-requests)
+    * [Runner](engineering/templates/gitlab/runner)
+  * [SCSS](engineering/templates/scss)
+  * [Server](engineering/templates/server)
+  * [Typscript](engineering/templates/typescript)
+  * [Vue](engineering/templates/vue)
