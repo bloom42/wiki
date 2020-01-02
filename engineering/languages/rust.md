@@ -8,10 +8,11 @@
 * due to the complexity of the language, development velocity (from idea to implementation) is slow
 * the cognitive load required to read Rust code distract from implementing features 
 * compile time break programmers' flow
+* toolchain is lacking (random behavior of RLS...)
 
 ### What we loved in Rust
 
-* low resources usages at runtime
+* performances at runtime
 * hybrid (imperative/functional) paradigm
 * portability across platforms
 * powerful algebraic data types (enum)
