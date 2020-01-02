@@ -1,6 +1,6 @@
 # Go
 
-**Go should never be used in any of Bloom's project:**
+**Why go is not optimal:**
 
 * Pointers
 * Lack of immutability
