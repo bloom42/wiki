@@ -9,6 +9,7 @@
 * the cognitive load required to read Rust code distract from implementing features 
 * compile time break programmers' flow
 * toolchain is lacking (random behavior of RLS...)
+* CI/CD costs are too high
 
 ### What we loved in Rust
 
