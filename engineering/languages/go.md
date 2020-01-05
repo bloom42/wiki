@@ -18,6 +18,17 @@ $ go env -w GOSUMDB="off"
 
 ## Resources
 
+### Modules
+
+* https://vyskocil.org/blog/go-111-modules-monorepo-and-shared-code/
+* https://www.reddit.com/r/golang/comments/9viv50/how_i_solved_go_111_modules_private_monorepo_and/
+* https://github.com/go-modules-by-example/index/blob/master/009_submodules/README.md
+* https://github.com/sotah-inc/server/tree/master/app
+* https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
+* https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
+
+### Other
+
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://code.tutsplus.com/tutorials/json-serialization-with-golang--cms-30209
 * https://eagain.net/articles/go-dynamic-json/
