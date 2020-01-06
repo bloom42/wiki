@@ -29,6 +29,7 @@ $ go env -w GOSUMDB="off"
 
 ### Other
 
+* https://blog.alexellis.io/inject-build-time-vars-golang/
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://code.tutsplus.com/tutorials/json-serialization-with-golang--cms-30209
 * https://eagain.net/articles/go-dynamic-json/
