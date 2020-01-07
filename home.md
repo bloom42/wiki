@@ -14,16 +14,6 @@ and even resources to improve your engineering/management/finance/... skills, ba
 All employees and contributors are expected to improve The Guide whenever they notice something wrong.
 Please use [issues](https://gitlab.com/bloom42/wiki/issues) for this purpose.
 
-
-# Other wikis
-
-Some projects have their own wiki
-
-* [Bloom](https://gitlab.com/bloom42/bloom/-/wikis/home)
-* [Authenticator](https://gitlab.com/bloom42/authenticator/-/wikis/home)
-* [Crypto42](https://gitlab.com/bloom42/libs/crypto42/-/wikis/home)
-* [SANE](https://gitlab.com/bloom42/sane/-/wikis/home)
-
 # Index
 
 * [Home](home)
@@ -34,3 +24,12 @@ Some projects have their own wiki
 * [Legal](legal)
 * [Marketing](marketing)
 * [Ideas](ideas)
+
+# Other wikis
+
+Some projects have their own wiki
+
+* [Bloom](https://gitlab.com/bloom42/bloom/-/wikis/home)
+* [Authenticator](https://gitlab.com/bloom42/authenticator/-/wikis/home)
+* [Crypto42](https://gitlab.com/bloom42/libs/crypto42/-/wikis/home)
+* [SANE](https://gitlab.com/bloom42/sane/-/wikis/home)
