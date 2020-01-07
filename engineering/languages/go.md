@@ -27,8 +27,13 @@ $ go env -w GOSUMDB="off"
 * https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
 * https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
 
+# CGO
+
+* https://gist.github.com/helinwang/2c7bd2867ea5110f70e6431a7c80cd9b
+
 ### Other
 
+* https://yourbasic.org/golang/switch-statement/
 * https://blog.alexellis.io/inject-build-time-vars-golang/
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
 * https://code.tutsplus.com/tutorials/json-serialization-with-golang--cms-30209
