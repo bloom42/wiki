@@ -1,4 +1,4 @@
-see https://www.bloom.sh/blog/bloom-a-free-and-open-source-google
+see https://bloom.gitlab.io/blog/bloom-a-free-and-open-source-google
 
 
 -------------------
