@@ -10,6 +10,7 @@
 * compile time break programmers' flow
 * toolchain is lacking (random behavior of RLS...)
 * CI/CD costs are too high
+* Rust is good on a 10 years scale... so not for startups, because you need the money to survive 10 years
 
 ### What we loved in Rust
 
