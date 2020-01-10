@@ -8,3 +8,4 @@
 * [Workflow](organization/workflow)
 * [Contributing](organization/contributing)
 * [Communication](organization/communication)
+* [Licensing](organization/licensing)
