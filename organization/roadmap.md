@@ -17,6 +17,14 @@ Too view the current sprints and this week roadmap, please see the
 
 ## 2020
 
+## Vision
+
+* e2e encryption
+* local first
+* data portability
+* more services (chat, mastodon?)
+* federation
+
 ### January
 
 ### February
