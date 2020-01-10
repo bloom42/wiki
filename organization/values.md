@@ -14,6 +14,8 @@
 
 ## But also
 
+### Minimalism
+
 ### Integrity
 
 Integrity means being incorruptible.
