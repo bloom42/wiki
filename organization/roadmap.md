@@ -3,35 +3,55 @@
 Too view the current sprints and this week roadmap, please see the
 [epics page of the GitLab organization](https://gitlab.com/groups/bloom42/-/epics).
 
-* 2018 - Failed to find <a href="https://www.kerkour.fr/blog/the-just-cause-and-the-infinite-game" target="_blank" rel="noopener">THE *why?*</a>
-* Q1 / Q2 2019 - <a href="https://bloom.sh" target="_blank" rel="noopener">Beta</a>
-* Q3 2019 - <a href="https://www.inkandswitch.com/local-first.html" target="_blank" rel="noopener">Offline first</a> + self-hosting
-* Q4 2019 - <a href="https://en.wikipedia.org/wiki/End-to-end_encryption" target="_blank" rel="noopener">End-to-end encryption</a> + teams
-* Q1 2020 - Add services
-* Q2 2020 - Data Portability
-* Q3 / Q4 2020 - Federation
+* [2018](#2018)
+* [2019](#2019)
+* [2020](#2020)
 * ∞ Never stop challenging the *statu quo*
 
+---------------------
 
---------------
+## 2018
+Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite-game" target="_blank" rel="noopener">THE *why?*</a>
+
+## 2019
+
+### Q1 / Q2
+
+<a href="https://bloom.sh" target="_blank" rel="noopener">Beta</a>
+
+### Q3 / Q4
+
+* transition from web app to <a href="https://www.inkandswitch.com/local-first.html" target="_blank" rel="noopener">Offline first</a>
+* <a href="https://en.wikipedia.org/wiki/End-to-end_encryption" target="_blank" rel="noopener">End-to-end encryption</a>
+* groups
+
 
 ## 2020
 
-## Vision
+### Vision
 
-* e2e encryption
+* improve e2e encryption
 * local first
 * data portability
 * more services (chat, mastodon?)
 * federation
+* grow the team
+* secure revenues
 
 ### January
 
+* release applications
+
 ### February
+
+* grow user base (marketing)
+* fix bugs from the previous release
 
 ### March
 
 ### April
+
+* release **Project X** beta
 
 ### May
 
