@@ -27,9 +27,15 @@ $ go env -w GOSUMDB="off"
 * https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
 * https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
 
-# CGO
+### CGO
 
 * https://gist.github.com/helinwang/2c7bd2867ea5110f70e6431a7c80cd9b
+* https://golang.org/cmd/cgo/
+* https://blog.golang.org/c-go-cgo
+* https://stackoverflow.com/questions/35507467/cgo-how-to-free-memory-allocated-in-c-using-malloc-from-go-to-avoid-memory-leak
+* https://karthikkaranth.me/blog/calling-c-code-from-go/
+* https://dave.cheney.net/tag/cgo
+* http://akrennmair.github.io/golang-cgo-slides/#1
 
 ### Other
 
