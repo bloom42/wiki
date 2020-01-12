@@ -2,9 +2,9 @@
 
 Too view the current sprints and this week roadmap, please see the `milestone` page of each project.
 
-* [2018](#2018)
-* [2019](#2019)
-* [2020](#2020)
+* [2018](#anchor-2018)
+* [2019](#anchor-2019)
+* [2020](#anchor-2020)
 * ∞ Never stop challenging the *statu quo*
 
 ---------------------
