@@ -1,7 +1,6 @@
 # Roadmap
 
-Too view the current sprints and this week roadmap, please see the
-[epics page of the GitLab organization](https://gitlab.com/groups/bloom42/-/epics).
+Too view the current sprints and this week roadmap, please see the `milestone` page of each project.
 
 * [2018](#2018)
 * [2019](#2019)
