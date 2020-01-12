@@ -51,11 +51,15 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 
 ### April
 
-* release **Project X** beta
+
 
 ### May
 
+* Wed 6th: release **Project X** beta
+
 ### June
+
+* Wed 3rd: publish first book
 
 ### July
 
