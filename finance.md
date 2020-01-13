@@ -5,4 +5,4 @@
 | Entity | Shares |
 | ------ | ------ |
 | Sylvain Kerkour | 100% |
-| ------ | ------ |
+
