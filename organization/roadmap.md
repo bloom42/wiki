@@ -47,6 +47,7 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 * grow user base (marketing)
 * fix bugs from the previous release
 * 15: https://gitlab.com/bloom42/bloom/issues/206
+* 29: launch **Project X** alpha
 
 ### March
 
@@ -58,7 +59,7 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 
 ### May
 
-* Wed 6th: release **Project X** beta
+* Wed 6th: launch **Project X** beta
 * 15: book0 v0-gamma (for haters)
 
 ### June
