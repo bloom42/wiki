@@ -46,11 +46,12 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 
 * grow user base (marketing)
 * fix bugs from the previous release
-* 15: https://gitlab.com/bloom42/bloom/issues/206
+* 15: send 2nd alert email https://gitlab.com/bloom42/bloom/issues/206
 * 29: launch **Project X** alpha
 
 ### March
 
+* launch brainwaves
 * 15: book0 v0-alpha (for me)
 
 ### April
