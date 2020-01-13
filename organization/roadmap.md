@@ -33,7 +33,7 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 * improve e2e encryption
 * local first
 * data portability
-* more services (chat, mastodon?)
+* more services (chat, ...?)
 * grow the team
 * secure revenues
 
