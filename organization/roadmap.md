@@ -5,6 +5,7 @@ Too view the current sprints and this week roadmap, please see the `milestone` p
 * [2018](#anchor-2018)
 * [2019](#anchor-2019)
 * [2020](#anchor-2020)
+* [2021](#anchor-2021)
 * ∞ Never stop challenging the *statu quo*
 
 ---------------------
@@ -33,7 +34,6 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 * local first
 * data portability
 * more services (chat, mastodon?)
-* federation
 * grow the team
 * secure revenues
 
@@ -72,3 +72,11 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 ### November
 
 ### December
+
+
+## 2021
+
+### Vision
+
+ * Federation
+* agriculture
