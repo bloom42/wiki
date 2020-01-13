@@ -64,9 +64,12 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 ### June
 
 * fix bugs from **Project X** beta release
-* Wed 3rd: publish book0
+* Wed 3rd: publish book0 v1
 
 ### July
+
+* grow user base of **Project X** (marketing)
+* promote book 0
 
 ### August
 
