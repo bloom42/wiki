@@ -33,7 +33,7 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 * improve e2e encryption
 * local first
 * data portability
-* more services (brainwaves, chat, ...?)
+* more services (brainwaves, chat, password manager, ...?)
 * grow the team
 * secure revenues
 
@@ -51,11 +51,12 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 
 ### March
 
-* launch brainwaves
+* launch brainwaves https://gitlab.com/bloom42/bloom/issues/209
 * 15: book0 v0-alpha (for me)
 
 ### April
 
+* launch password manager https://gitlab.com/bloom42/bloom/issues/208
 * 15: book0 v0-beta (for readers)
 
 ### May
