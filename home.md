@@ -1,6 +1,6 @@
 # Intro
 
-![banner](uploads/8534729ad6a65dc6d987c34b58f61bba/banner.jpg)
+![blog](uploads/f33cc2d311469f89ef9ca7daf86dad53/blog.jpg)
 
 Whether you are an aspiring employee, a contributor, a journalist, a youtuber, an investor or even
 a competitor, this guide is for you.
