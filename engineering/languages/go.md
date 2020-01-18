@@ -16,6 +16,50 @@ $ go env -w GOPROXY="direct"
 $ go env -w GOSUMDB="off"
 ```
 
+
+## Guides
+
+### How to access a SQL Database
+
+comment acceder a la db
+
+pq orm: https://github.com/go-pg/pg
+postgres driver: https://github.com/go-pg/pg
+sqlx: https://github.com/jmoiron/sqlx (pas mis a jour)
+gorm: https://github.com/jinzhu/gorm
+
+
+
+ce qui semble se dessiner:
+sqlx, avec repository pattern, comme ca on peut switcher / alterner
+
+pattern
+
+domain
+- mode
+- command (ou use cases?)
+- query (repositories?)
+handler
+
+et les repositories ?
+
+
+on met la logique ‘gloable’ dans les handler, et ceux ci ne font que appeler des groupement de commandes
+
+
+
+
+he file service.go represents the Use Case layer, as defined by Uncle Bob. In the file we have the interface Service and his implementation. The Service interface is:
+
+———————
+
+les handler sont nos controller
+
+dans le domaine on retrouve les commandes, les notifs et les modeles
+
+
+
+
 ## Resources
 
 ### Modules
