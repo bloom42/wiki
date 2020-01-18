@@ -24,6 +24,10 @@ Also, we have a better, human (warm??) customer support ;)
 ## Communities
 
 * https://www.reddit.com/r/thehatedone
-https://www.reddit.com/r/golang
+* https://www.reddit.com/r/golang
 * open source
 * privacy
+* flutter
+* vue
+* electron
+* cryptography
