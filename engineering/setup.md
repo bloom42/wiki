@@ -2,29 +2,17 @@
 
 Bloom use the following platforms to develop it's products:
 
-* [Rust](#rust)
+* [Go](#go)
 * [NodeJS](#nodejs)
 * [Flutter](#flutter)
 
-## Rust
+## Go
 
-1. Install [Rustup](https://rustup.rs/)
+1. Install [Go](https://golang.org/)
 
-2. Use our pinned Rust version
+2. Install [gowatch](https://gitlab.com/bloom42/tools/gowatch)
 ```sh
-$ rustup default nightly-2019-10-13
-$ rustup component add clippy rls rust-analysis rust-src rustfmt
-$ rustup target add aarch64-linux-android armv7-linux-androideabi i686-linux-android
-```
-
-3. Install [cargo-watch](https://github.com/passcod/cargo-watch)
-```sh
-$ cargo install --force cargo-watch
-```
-
-4. Install [diesel](http://diesel.rs/)
-```sh
-$ cargo install diesel_cli --no-default-features --features postgres
+$ go install gitlab.com/bloom42/tools/gowatch
 ```
 
 ## NodeJS
