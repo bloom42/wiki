@@ -20,3 +20,10 @@ I launched my priject while in beta here some months ago and had a lot of positi
 I'm reposting today because we have graduated to v1.0, with new features like encryption, native apps, a (seemly) sustainable business model
 And still 100% open source :)
 Also, we have a better, human (warm??) customer support ;)
+
+## Communities
+
+* https://www.reddit.com/r/thehatedone
+https://www.reddit.com/r/golang
+* open source
+* privacy
