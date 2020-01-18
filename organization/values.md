@@ -14,6 +14,8 @@
 
 ## But also
 
+### Ethical and sustainable technology
+
 ### Minimalism
 
 ### Integrity
