@@ -5,6 +5,7 @@
 * Fatigué d'avoir vos donnees dans 10 apps differentes
 * Et qui vous empechent d'etre proprietaire de vos donnees
 * espionnage de la part de gouvernements de plus en plus totalitaires
+* informatique non ethique et ultra capitaliste / monopoliste
 
 ## Ideas
 
