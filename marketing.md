@@ -10,6 +10,8 @@
 ## Ideas
 
 * Encrypted and open source google
+* Privacy and security, choose both
+
 
 
 ## Reddit / HN
