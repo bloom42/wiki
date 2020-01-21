@@ -1,5 +1,10 @@
 # Vue
 
+## Templates
+
+* https://material-crypto.vuetifyjs.com/
+* https://alpha-saas.vuetifyjs.com/#/
+
 ## Resources
 
 * https://css-tricks.com/vue-typescript-a-match-made-in-your-code-editor/
