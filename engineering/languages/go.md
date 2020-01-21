@@ -62,6 +62,10 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ## Resources
 
+### Crypto
+
+* https://www.alexedwards.net/blog/how-to-hash-and-verify-passwords-with-argon2-in-go
+
 ### Modules
 
 * https://vyskocil.org/blog/go-111-modules-monorepo-and-shared-code/
@@ -70,6 +74,41 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 * https://github.com/sotah-inc/server/tree/master/app
 * https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
 * https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
+
+### Database
+
+* https://jmoiron.github.io/sqlx/
+* https://www.alexedwards.net/blog/organising-database-access
+* https://github.com/golang-migrate/migrate#use-in-your-go-project
+* https://www.w3resource.com/sqlite/sqlite-data-types.php
+* https://github.com/whiteheadrj/goDataStoreExamples/blob/master/example4/store.go
+* https://husio.github.io/blog/accessing-data-in-go/
+* https://medium.com/avitotech/how-to-work-with-postgres-in-go-bad2dabd13e4
+* https://astaxie.gitbooks.io/build-web-application-with-golang/en/05.4.html
+* https://blog.digitalocean.com/create-a-simple-contacts-list-with-go/
+* https://jbrandhorst.com/post/postgres/
+* https://www.calhoun.io/using-postgresql-with-go/
+* https://www.compose.com/articles/accessing-relational-databases-using-go/
+* https://medium.com/@ChadITNP/golang-database-access-d603ceeb266f
+* https://hackernoon.com/how-to-work-with-databases-in-golang-33b002aa8c47
+* http://go-database-sql.org/
+* https://docs.microsoft.com/fr-fr/azure/postgresql/connect-go
+* https://www.alexedwards.net/blog/using-postgresql-jsonb
+* https://kb.objectrocket.com/postgresql/web-app-with-go-and-postgresql-update-record-in-postgresql-using-golang-733
+
+### Code organization
+
+* * https://rakyll.org/style-packages/
+* https://medium.com/manato/clean-architecture-with-go-bce409427d31
+* https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f
+* https://medium.com/manato/clean-architecture-with-go-bce409427d31
+* https://hackernoon.com/trying-clean-architecture-on-golang-2-44d615bf8fdf
+* https://medium.com/@hatajoe/clean-architecture-in-go-4030f11ec1b1
+
+### Mobile
+
+* https://medium.com/@AndroidAdvance/running-go-from-android-ios-tutorial-7f1d456c5b0f
+* https://sites.google.com/a/athaydes.com/renato-athaydes/posts/buildingamobilefrontendforagoapplicationusingflutter
 
 ### CGO
 
@@ -83,6 +122,10 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ### Other
 
+
+* https://github.com/asaskevich/govalidator
+* https://www.digitalocean.com/community/tutorials/how-to-format-strings-in-go
+* https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091#9e7e
 * https://yourbasic.org/golang/switch-statement/
 * https://www.yellowduck.be/posts/injecting-build-time-variables/
 * https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831
