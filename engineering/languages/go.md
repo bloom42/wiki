@@ -95,6 +95,10 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 * https://docs.microsoft.com/fr-fr/azure/postgresql/connect-go
 * https://www.alexedwards.net/blog/using-postgresql-jsonb
 * https://kb.objectrocket.com/postgresql/web-app-with-go-and-postgresql-update-record-in-postgresql-using-golang-733
+* https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f
+* https://github.com/xeodou/go-sqlcipher
+* https://github.com/gostor/awesome-go-storage
+* https://www.vividcortex.com/blog/how-we-encrypt-data-in-mysql-with-go
 
 ### Code organization
 
@@ -119,10 +123,28 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 * https://karthikkaranth.me/blog/calling-c-code-from-go/
 * https://dave.cheney.net/tag/cgo
 * http://akrennmair.github.io/golang-cgo-slides/#1
+* http://gridengine.eu/index.php/other-stories/232-avoiding-the-ldlibrarypath-with-shared-libs-in-go-cgo-applications-2015-12-21
 
 ### Other
 
-
+* https://tutorialedge.net/golang/go-websocket-tutorial/
+* https://github.com/jlongster/electron-with-server-example
+* https://github.com/mholt/certmagic
+* https://github.com/xyproto/algernon
+* https://github.com/metaphyze/gossl
+* https://blog.gopheracademy.com/advent-2019/building-a-microservices-network/
+* https://blog.kowalczyk.info/article/Jl3G/https-for-free-in-go-with-little-help-of-lets-encrypt.html
+* https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
+* http://www.gobestcode.com/html/math_parser_for_golang.html
+* https://www.reddit.com/r/golang/comments/5qwguu/desktop_application_using_unix_domain_sockets_and/
+* https://www.reddit.com/r/golang/comments/bj9i5c/wails_beta_create_desktop_apps_using_go_and/
+* https://github.com/gernest/qlql
+* https://github.com/asticode/go-astilectron
+* https://github.com/dariubs/GoBooks
+* https://medium.com/@asticode/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0
+* https://medium.com/swlh/how-to-run-background-worker-processes-in-an-electron-app-e0dc310a93cc
+* https://sausheong.github.io/posts/cross-platform-games-with-go/
+* https://medium.com/benchkram/tutorial-adding-a-gui-to-golang-6aca601e277d
 * https://github.com/asaskevich/govalidator
 * https://www.digitalocean.com/community/tutorials/how-to-format-strings-in-go
 * https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091#9e7e
