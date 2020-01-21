@@ -54,7 +54,6 @@ Failed to find <a href="https://fatalentropy.com/the-just-cause-and-the-infinite
 
 * 2fa auth: https://gitlab.com/bloom42/bloom/issues/46
 * launch brainwaves https://gitlab.com/bloom42/bloom/issues/209
-
 * 15: book0 v0-alpha (for me)
 
 ### April
