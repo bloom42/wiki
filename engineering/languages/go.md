@@ -62,6 +62,10 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ## Resources
 
+### Server
+
+* https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+
 ### Crypto
 
 * https://www.alexedwards.net/blog/how-to-hash-and-verify-passwords-with-argon2-in-go
