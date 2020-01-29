@@ -8,13 +8,13 @@
 
 ### Transparency
 
-### Simplicity
-
-
+### Sustainability
 
 ## But also
 
-### Ethical and sustainable technology
+### Simplicity
+
+### Ethical technology
 
 ### Minimalism
 
