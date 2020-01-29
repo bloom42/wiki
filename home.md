@@ -17,10 +17,10 @@ Please use [issues](https://gitlab.com/bloom42/wiki/issues) for this purpose.
 * [Home](home)
 * [Organization](organization)
 * [Engineering](engineering)
-* [People group](people-group)
+* [Growth](growth)
 * [Finance](finance)
+* [People group](people-group)
 * [Legal](legal)
-* [Marketing](marketing)
 * [Ideas](ideas)
 
 # Other wikis
