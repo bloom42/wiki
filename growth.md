@@ -1,4 +1,4 @@
-# Marketing
+# Growth
 
 ## Pain points
 
