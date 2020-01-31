@@ -9,3 +9,4 @@
 * [Contributing](organization/contributing)
 * [Communication](organization/communication)
 * [Licensing](organization/licensing)
+* [External services](organization/external-services)
