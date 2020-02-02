@@ -34,3 +34,6 @@ By putting the ego aside, humble person are **ready to make short term sacrifice
 
 
 ### Competition
+
+
+### Low Tech
