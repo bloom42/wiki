@@ -1,4 +1,4 @@
-The values below are our north Star. They define the lines we should not pass and the tradeoffs we should make. 
+The values below are our north Star. They define the lines we should not cross and the tradeoffs we should make. 
 
 ## CATS 🐱
 
