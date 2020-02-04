@@ -3,6 +3,7 @@
 
 we favor simple, low tech, open source, resilient and monolith tools, over externalizing everything and creating a  headache of maintenance.
 
+* [GitLab](https://gitlab.com/bloom42)
 * [Crisp](https://app.crisp.chat)
 * [Stripe](https://dashboard.stripe.com)
 * [Sentry](https://sentry.io/bloom42/)
