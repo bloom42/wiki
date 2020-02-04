@@ -16,4 +16,5 @@
 ### Twirp
 
 * https://github.com/twitchtv/twirp
+* https://twitchtv.github.io/twirp/docs/errors.html
 
