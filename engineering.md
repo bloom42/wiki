@@ -3,6 +3,7 @@
 * [Cryptography](engineering/cryptography)
 * [Mobile](engineering/mobile)
 * [Qt](engineering/qt)
+* [APIs](engineering/apis)
 * Patterns
   * [Event Sourcing](engineering/patterns/event-sourcing)
   * [Flux](engineering/patterns/flux)
