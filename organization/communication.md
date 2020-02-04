@@ -1,6 +1,6 @@
 # Internal communication
 
-Internal communication between team members is done through [Signal](https://signal.org/).
+Internal communication between team members is done through [Signal](https://signal.org/). Please ask your team lead for an invitation.
 
 # Blog
 
