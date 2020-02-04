@@ -12,7 +12,7 @@
 * https://www.apollographql.com/docs/apollo-server/schema/schema/#designing-mutations
 * https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976
 * https://graphql.org/learn/schema/
-
+* https://stackoverflow.com/questions/42622912/in-graphql-whats-the-meaning-of-edges-and-node
 
 ### Auth
 
