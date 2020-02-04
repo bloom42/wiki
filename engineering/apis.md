@@ -13,6 +13,7 @@
 * https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976
 * https://graphql.org/learn/schema/
 * https://stackoverflow.com/questions/42622912/in-graphql-whats-the-meaning-of-edges-and-node
+* https://news.ycombinator.com/item?id=17289048 (introducing the graphql guide)
 
 ### Auth
 
