@@ -7,3 +7,5 @@ we favor simple, low tech, open source, resilient and monolith tools, over exter
 * [Crisp](https://app.crisp.chat)
 * [Stripe](https://dashboard.stripe.com)
 * [Sentry](https://sentry.io/bloom42/)
+* Twitter: [@42bloom](https://twitter.com/@42bloom)
+* Mastodon: [@42bloom@mastodon.social](https://mastodon.social/@42bloom)
