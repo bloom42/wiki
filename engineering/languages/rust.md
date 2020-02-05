@@ -2,7 +2,7 @@
 
 ## Why we abandoned Rust in profit of Go
 
-* too much resource to compile, it's really bad for our sustainability goals
+* too much resource to compile, it's really bad for our sustainability goals (we want to be able to compile Bloom on a Raspberry pi)
 * Language is not easy to learn, it's hard to bootstrap new team members and contributors
 * Language is too much bloated, and this is rapidly growing
 * due to the complexity of the language, development velocity (from idea to implementation) is slow
