@@ -29,5 +29,4 @@ Some projects have their own wiki
 
 * [Bloom](https://gitlab.com/bloom42/bloom/-/wikis/home)
 * [Authenticator](https://gitlab.com/bloom42/authenticator/-/wikis/home)
-* [crypto42-rs](https://gitlab.com/bloom42/libs/crypto42-rs/-/wikis/home)
 * [SANE](https://gitlab.com/bloom42/sane/-/wikis/home)
