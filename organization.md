@@ -6,6 +6,7 @@
 * [Leadership](organization/leadership)
 * [Structure](organization/structure)
 * [Workflow](organization/workflow)
+* [Lessons learned](organization/lessons-learned)
 * [Contributing](organization/contributing)
 * [Communication](organization/communication)
 * [Licensing](organization/licensing)
