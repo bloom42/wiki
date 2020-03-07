@@ -1,3 +1,5 @@
+TODO: move to https://gitlab.com/bloom42/wiki/-/wikis/organization/roadmap
+
 # Roadmap
 
 Too view the current sprints and this week roadmap, please see the `milestone` page of each project.
