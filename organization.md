@@ -1,5 +1,5 @@
 
-* [Roadmap](organization/roadmap)
+* [Roadmap](https://gitlab.com/groups/bloom42/-/milestones)
 * [Mission](organization/mission)
 * [Vision](organization/vision)
 * [Values](organization/values)
