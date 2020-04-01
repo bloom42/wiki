@@ -6,3 +6,7 @@
 * [People group](people-group)
 * [Legal](legal)
 * [Ideas](ideas)
+
+-----------
+
+* [Sidebar](_sidebar)
