@@ -16,6 +16,7 @@
   * [Rust](engineering/languages/rust)
   * [JavaScript](engineering/languages/javascript)
   * [Elixir](engineering/languages/elixir)
+* [Databases](engineering/databases)
 * Templates
   * [Docker](engineering/templates/docker)
   * [Editor config](engineering/templates/editor-config)
