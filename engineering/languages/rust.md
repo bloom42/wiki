@@ -18,6 +18,7 @@
 * hybrid (imperative/functional) paradigm
 * portability across platforms
 * powerful algebraic data types (enum)
+* safety (both memory, and `null` handling)
 
 
 ## Resources
