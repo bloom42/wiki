@@ -6,8 +6,8 @@
 * Language is not easy to learn, it's hard to bootstrap new team members and contributors
 * Language is too much bloated, and this is rapidly growing
 * due to the complexity of the language, development velocity (from idea to implementation) is slow
-* the cognitive load required to read Rust code distract from implementing features 
-* compile time break programmers' flow
+* the cognitive load required to read Rust code distracts from implementing features 
+* compile time breaks programmers' flow
 * toolchain is lacking (random behavior of RLS...)
 * CI/CD costs are too high
 * Rust is good on a 10 years scale... so not for startups, because you need the money to survive 10 years
