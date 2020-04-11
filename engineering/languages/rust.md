@@ -1,6 +1,6 @@
 # Rust
 
-## Why we abandoned Rust in profit of Go
+## Why we abandoned Rust for Go
 
 * too much resource to compile, it's really bad for our sustainability goals (we want to be able to compile Bloom on a Raspberry pi)
 * Language is not easy to learn, it's hard to bootstrap new team members and contributors
