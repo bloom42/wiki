@@ -130,6 +130,8 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ### Other
 
+* https://blog.alexellis.io/inject-build-time-vars-golang/
+* https://medium.com/@eminetto/golang-using-build-tags-to-store-configurations-d586e23c1dde
 * https://tutorialedge.net/golang/go-websocket-tutorial/
 * https://github.com/jlongster/electron-with-server-example
 * https://github.com/mholt/certmagic
