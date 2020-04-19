@@ -61,9 +61,9 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ## Resources
 
-### Server
+### Quirks
 
-* https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+* https://blog.sbstp.ca/go-quirks/
 
 ### Crypto
 
@@ -77,6 +77,12 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 * https://github.com/sotah-inc/server/tree/master/app
 * https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
 * https://arslan.io/2019/08/02/why-you-should-use-a-go-module-proxy/
+
+### HTTP
+
+* https://blog.depado.eu/post/bufferless-multipart-post-in-go
+* https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+* https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet
 
 ### Database
 
