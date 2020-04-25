@@ -86,6 +86,7 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 
 ### Database
 
+* https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go
 * https://jmoiron.github.io/sqlx/
 * https://www.alexedwards.net/blog/organising-database-access
 * https://github.com/golang-migrate/migrate#use-in-your-go-project
