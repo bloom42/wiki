@@ -200,3 +200,4 @@ dans le domaine on retrouve les commandes, les notifs et les modeles
 * https://github.com/shuLhan/share
 * https://github.com/labstack/gommon
 * https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
+* https://medium.com/@x1n13y84issmd42/how-to-stop-handling-errors-in-go-and-start-living-5fbffe5cb11a
