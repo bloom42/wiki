@@ -7,6 +7,23 @@
 
 ## Resources
 
+
+### Vue 3
+
+* https://stackoverflow.com/questions/59644684/what-will-happen-for-vuejs-projects-based-on-class-components-in-vuejs-v3-0
+* https://vue-composition-api-rfc.netlify.app
+* https://medium.com/@mario.brendel1990/vue-3-the-new-store-a7569d4a546f
+* https://dev.to/lmillucci/building-a-vue-3-component-with-typescript-4pge
+
+### Typescript
+
+* https://dev.to/daroco/strongly-typed-vuex-store-in-four-lines-of-typescript-42n6
+* https://alligator.io/vuejs/using-typescript-with-vue/
+
+### Other
+
+* https://vuejs.org/v2/style-guide/#Base-component-names-strongly-recommended
+* https://vuejs.org/v2/api/#Vue-component
 * https://css-tricks.com/vue-typescript-a-match-made-in-your-code-editor/
 * https://github.com/utahta/vue-vuex-typescript-sandbox/blob/master/src/components/Counter/index.ts
 * https://frontendsociety.com/writing-vuex-stores-in-typescript-b570ca34c2a
