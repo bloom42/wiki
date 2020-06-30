@@ -1,9 +1,18 @@
 # Vue
 
+
+### Style guide
+
+* store is accessed in templates only using computed properties
+* in medium to larges projects, use services to modify store and cal external resource like HTTP calls, localstorage...
+
+
 ## Templates
 
 * https://material-crypto.vuetifyjs.com/
 * https://alpha-saas.vuetifyjs.com/#/
+
+
 
 ## Resources
 
