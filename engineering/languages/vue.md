@@ -30,6 +30,12 @@
 * https://alligator.io/vuejs/using-typescript-with-vue/
 
 
+### Assets
+
+* https://stackoverflow.com/questions/47313165/how-to-reference-static-assets-within-vue-javascript
+* https://cli.vuejs.org/guide/html-and-static-assets.html#the-public-folder
+
+
 ### Lib
 
 * https://stackoverflow.com/questions/59249685/vue-cli-3-target-build-lib-exclude-shared-styling
