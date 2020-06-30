@@ -29,6 +29,15 @@
 * https://dev.to/daroco/strongly-typed-vuex-store-in-four-lines-of-typescript-42n6
 * https://alligator.io/vuejs/using-typescript-with-vue/
 
+
+### Lib
+
+* https://stackoverflow.com/questions/59249685/vue-cli-3-target-build-lib-exclude-shared-styling
+* https://github.com/awaigand/vue-cli-target-lib-example
+* https://stackoverflow.com/questions/45298859/how-to-publish-a-library-of-vue-js-components
+* https://github.com/vuejs/vue-cli/issues/5204
+* https://stackoverflow.com/questions/60568885/how-do-you-mount-a-vuejs-umd-build-onto-existing-html
+
 ### Other
 
 * https://vuejs.org/v2/style-guide/#Base-component-names-strongly-recommended
