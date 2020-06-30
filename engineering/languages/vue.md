@@ -3,6 +3,7 @@
 
 ### Style guide
 
+* See https://vuejs.org/v2/style-guide/#Base-component-names-strongly-recommended
 * store is accessed in templates only using computed properties
 * in medium to larges projects, use services to modify store and cal external resource like HTTP calls, localstorage...
 
